@@ -5,7 +5,6 @@
 ### Winter 2024
 ### [Assignment Description](https://drive.google.com/open?id=1HLIk-539N9KiAAG1224NWpFyEl4RsPVBwtBZ9KbjicE)
 
-https://github.com/buscs110/final-project-spring20-team-1
 
 https://drive.google.com/open?id=1C9DhDNxPOTwonTbN3xBtvtzHAAr6x_Joah4TxxUYEDE
 
