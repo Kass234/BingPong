@@ -1,9 +1,8 @@
 
 
 # Bing Pong
-## :warning: CS 400 Final Project :warning:
+## :warning:Self py Project :warning:
 ### Winter 2024
-### [Assignment Description](https://drive.google.com/open?id=1HLIk-539N9KiAAG1224NWpFyEl4RsPVBwtBZ9KbjicE)
 
 
 https://drive.google.com/open?id=1C9DhDNxPOTwonTbN3xBtvtzHAAr6x_Joah4TxxUYEDE
