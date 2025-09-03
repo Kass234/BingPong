@@ -1,21 +1,21 @@
 
 
 # Bing Pong
-## :warning: CS 110 Final Project :warning:
-### Spring 2020
+## :warning: CS 400 Final Project :warning:
+### Winter 2024
 ### [Assignment Description](https://drive.google.com/open?id=1HLIk-539N9KiAAG1224NWpFyEl4RsPVBwtBZ9KbjicE)
 
 https://github.com/buscs110/final-project-spring20-team-1
 
 https://drive.google.com/open?id=1C9DhDNxPOTwonTbN3xBtvtzHAAr6x_Joah4TxxUYEDE
 
-### Team: Team 1
-#### Alex O'Keefe, Kaseem Thomas, Alfred Taveras
+
+ Kaseem Thomas
 
 ***
 
 ## Project Description
-Our project is a simple pingpong game with Binghamton accents all over presented by the logos and colors. It represents an arcade-style pingpong game with paddles, the ball and the "table" represented by the borders. The game keeps score, has difficulty levels, which changes the ball speed or the size of the paddle, has powerups and the capability to have 2 players. 
+My project is a simple pingpong game with Binghamton accents all over presented by the logos and colors. It represents an arcade-style pingpong game with paddles, the ball and the "table" represented by the borders. The game keeps score, has difficulty levels, which changes the ball speed or the size of the paddle, has powerups and the capability to have 2 players. 
 
 ***    
 
@@ -46,7 +46,7 @@ Our project is a simple pingpong game with Binghamton accents all over presented
 ***        
 
 ## Program Design
-* We only used the Pygame library.
+* I only used the Pygame library.
     
 * Class Interface Design
         * ![class diagram](assets/class_diagram1.jpg)
@@ -61,23 +61,8 @@ Our project is a simple pingpong game with Binghamton accents all over presented
 
 ***
 
-## Tasks and Responsibilities
-* Alex was responsible for: GUI Design, controller.py, opponent.py, main menu, buttons and making it creative with different settings. 
-* Kaseem was responsible for: ball.py and table.py
-* Alfred was responsible for: ball.py and table.py
-* Collaborative: assets folder, player.py, brainstormed how to make it different than other pingpong games and the README.
 
-### Software Lead - Alex O'Keefe
-
-Worked as integration specialist by molding the whole program together, making every part of the game flow perfectly, and making sure every part of the program worked together. Made unique variables not found in other pong programs. 
-
-### Front End Specialist - Kaseem Thomas
-
-Front-end lead conducted significant research on different types of pygame pong games. There were many pong games out there and trying to create a simple game that differentiates from the existing ones was a little difficult. 
-
-### Back End Specialist - Alfred Taveras
-
-The back end specialist made sure every class and method was organized in their respective place. Made sure the images and the code matched the overall theme we were working for. 
+ 
 
 ## Testing
 
