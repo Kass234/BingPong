@@ -19,21 +19,21 @@ My project is a simple pingpong game with Binghamton accents all over presented 
 
 ## User Interface Design
 * User Interface
-    * ![MainMenu](assets/MainMenu.jpg)
+    * ![MainMenu](assets/mainscreen.jpg)
     The first menu screen gives the user the option to start the game with the default settings, edit the settings themselves, or quit the game. 
-    * ![MainMenuV2](assets/MainMenuV2.jpg)
+    * ![MainMenuV2](assets/selecscreen.jpg)
     Clicking settings will lead you to this screen, in which you can choose to edit the difficulty, set the number of players, or return to the main menu.
-    * ![DifficultyOption](assets/DifficultyOption.jpg)
+    * ![DifficultyOption](assets/selectscreen.jpg)
     Upon pressing difficulty, the user is then prompted to choose easy, medium, or hard. They also have the option to return to the settings menu.
-    * ![PlayerOption](assets/PlayerOption.jpg)
+    * ![PlayerOption](assets/playerselect.jpg)
     If the user presses the players button, they are sent to a menu where they can choose between one or two players, or return to the settings menu.
-    * ![InfoScreen](assets/InfoScreen.jpg)
+    * ![InfoScreen](assets/helpmenu.jpg)
     If in any of the above menus the user presses the blue 'i' button, they will be sent here, where they can learn relevant information about the game and test out the paddle controls for 1 player mode and 2 player mode.
-    * ![Gameplay](assets/Gameplay.jpg)
+    * ![Gameplay](assets/field1.jpg)
     Once the user decides they are ready to play, pressing start will begin the game. If they chose to play by themselves, the opponent will be automated. Depending on what difficulty the user chose, the paddles can range from small to large and the ball speed can range from slow to fast. The user can at any time press the main menu button to return to the main menu.
-    * ![PowerAddOn](assets/PowerAddOn.jpg)
+    * ![PowerAddOn](assets/field2.jpg)
     During the course of the game, powerups will appear every 20 seconds. There are 3 types of powerups. Type 1 increases ball speed, type 2 increases the size of the paddle that the ball hit last, and type 3 adds another ball. Type 3 is shown in the image.
-    * ![WinnerScreen](assets/WinnerScreen.jpg)
+    * ![WinnerScreen](assets/winnerscreen.jpg)
     Once one of the players reaches 10 points, the appropriate win screen is deployed. The user can then press the main menu button to return to the main menu.
     
     
